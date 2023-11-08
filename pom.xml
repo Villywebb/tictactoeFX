@@ -60,7 +60,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>prv.vilmer.tictactoefx/prv.vilmer.tictactoefx.HelloApplication</mainClass>
+                            <mainClass>prv.vilmer.tictactoefx/prv.vilmer.tictactoefx.Main</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>
